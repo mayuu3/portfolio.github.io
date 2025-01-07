@@ -8,7 +8,7 @@ Here's a glimpse into my journey:
 
 ## 🛠 Projects
 
-### *Hospital Management System*  
+### **Hospital Management System**  
 
 *OVERVIEW:*  
 
